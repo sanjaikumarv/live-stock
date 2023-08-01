@@ -1,0 +1,13 @@
+{
+  "roleId": 2,
+  "perms": [
+    {
+      "subject": "Farm",
+      "actions": ["VIEW", "CREATE", "DELETE", "UPDATE"]
+    },
+    {
+      "subject": "Animal",
+      "actions": ["VIEW", "CREATE", "DELETE", "UPDATE"]
+    }
+  ]
+}

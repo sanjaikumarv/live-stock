@@ -1,0 +1,12 @@
+[
+  {
+    "roleId": 1,
+    "roleName": "ADMIN",
+    "roleLabel": "Admin"
+  },
+  {
+    "roleId": 2,
+    "roleName": "FARM",
+    "roleLabel": "Farm"
+  }
+]

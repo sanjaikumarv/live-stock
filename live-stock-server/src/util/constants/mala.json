@@ -1,0 +1,798 @@
+[
+  {
+    "label": "Johor",
+    "value": 1,
+    "cities": [
+      {
+        "label": "Johor Bahru",
+        "value": 1
+      },
+      {
+        "label": "Tebrau",
+        "value": 2
+      },
+      {
+        "label": "Pasir Gudang",
+        "value": 3
+      },
+      {
+        "label": "Bukit Indah",
+        "value": 4
+      },
+      {
+        "label": "Skudai",
+        "value": 5
+      },
+      {
+        "label": "Kluang",
+        "value": 6
+      },
+      {
+        "label": "Batu Pahat",
+        "value": 7
+      },
+      {
+        "label": "Muar",
+        "value": 8
+      },
+      {
+        "label": "Ulu Tiram",
+        "value": 9
+      },
+      {
+        "label": "Senai",
+        "value": 10
+      },
+      {
+        "label": "Segamat",
+        "value": 11
+      },
+      {
+        "label": "Kulai",
+        "value": 12
+      },
+      {
+        "label": "Kota Tinggi",
+        "value": 13
+      },
+      {
+        "label": "Pontian Kechil",
+        "value": 14
+      },
+      {
+        "label": "Tangkak",
+        "value": 15
+      },
+      {
+        "label": "Bukit Bakri",
+        "value": 16
+      },
+      {
+        "label": "Yong Peng",
+        "value": 17
+      },
+      {
+        "label": "Pekan Nenas",
+        "value": 18
+      },
+      {
+        "label": "Labis",
+        "value": 19
+      },
+      {
+        "label": "Mersing",
+        "value": 20
+      },
+      {
+        "label": "Simpang Renggam",
+        "value": 21
+      },
+      {
+        "label": "Parit Raja",
+        "value": 22
+      },
+      {
+        "label": "Kelapa Sawit",
+        "value": 23
+      },
+      {
+        "label": "Buloh Kasap",
+        "value": 24
+      },
+      {
+        "label": "Chaah",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "label": "Kedah",
+    "value": 2,
+    "cities": [
+      {
+        "label": "Sungai Petani",
+        "value": 1
+      },
+      {
+        "label": "Alor Setar",
+        "value": 2
+      },
+      {
+        "label": "Kulim",
+        "value": 3
+      },
+      {
+        "label": "Jitra / Kubang Pasu",
+        "value": 4
+      },
+      {
+        "label": "Baling",
+        "value": 5
+      },
+      {
+        "label": "Pendang",
+        "value": 6
+      },
+      {
+        "label": "Langkawi",
+        "value": 7
+      },
+      {
+        "label": "Yan",
+        "value": 8
+      },
+      {
+        "label": "Sik",
+        "value": 9
+      },
+      {
+        "label": "Kuala Nerang",
+        "value": 10
+      },
+      {
+        "label": "Pokok Sena",
+        "value": 11
+      },
+      {
+        "label": "Bandar Baharu",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "label": "Kelantan",
+    "value": 3,
+    "cities": [
+      {
+        "label": "Kota Bharu",
+        "value": 1
+      },
+      {
+        "label": "Pangkal Kalong",
+        "value": 2
+      },
+      {
+        "label": "Tanah Merah",
+        "value": 3
+      },
+      {
+        "label": "Peringat",
+        "value": 4
+      },
+      {
+        "label": "Wakaf Baru",
+        "value": 5
+      },
+      {
+        "label": "Kadok",
+        "value": 6
+      },
+      {
+        "label": "Pasir Mas",
+        "value": 7
+      },
+      {
+        "label": "Gua Musang",
+        "value": 8
+      },
+      {
+        "label": "Kuala Krai",
+        "value": 9
+      },
+      {
+        "label": "Tumpat",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "label": "Melaka",
+    "value": 4,
+    "cities": [
+      {
+        "label": "Bandaraya Melaka",
+        "value": 1
+      },
+      {
+        "label": "Bukit Baru",
+        "value": 2
+      },
+      {
+        "label": "Ayer Keroh",
+        "value": 3
+      },
+      {
+        "label": "Klebang",
+        "value": 4
+      },
+      {
+        "label": "Masjid Tanah",
+        "value": 5
+      },
+      {
+        "label": "Sungai Udang",
+        "value": 6
+      },
+      {
+        "label": "Batu Berendam",
+        "value": 7
+      },
+      {
+        "label": "Alor Gajah",
+        "value": 8
+      },
+      {
+        "label": "Bukit Rambai",
+        "value": 9
+      },
+      {
+        "label": "Ayer Molek",
+        "value": 10
+      },
+      {
+        "label": "Bemban",
+        "value": 11
+      },
+      {
+        "label": "Kuala Sungai Baru",
+        "value": 12
+      },
+      {
+        "label": "Pulau Sebang",
+        "value": 13
+      },
+      {
+        "label": "Jasin",
+        "value": 14
+      }
+    ]
+  },
+  {
+    "label": "Negeri Sembilan",
+    "value": 5,
+    "cities": [
+      {
+        "label": "Seremban",
+        "value": 1
+      },
+      {
+        "label": "Port Dickson",
+        "value": 2
+      },
+      {
+        "label": "Nilai",
+        "value": 3
+      },
+      {
+        "label": "Bahau",
+        "value": 4
+      },
+      {
+        "label": "Tampin",
+        "value": 5
+      },
+      {
+        "label": "Kuala Pilah",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "label": "Pahang",
+    "value": 6,
+    "cities": [
+      {
+        "label": "Kuantan",
+        "value": 1
+      },
+      {
+        "label": "Temerloh",
+        "value": 2
+      },
+      {
+        "label": "Bentong",
+        "value": 3
+      },
+      {
+        "label": "Mentakab",
+        "value": 4
+      },
+      {
+        "label": "Raub",
+        "value": 5
+      },
+      {
+        "label": "Jerantut",
+        "value": 6
+      },
+      {
+        "label": "Pekan",
+        "value": 7
+      },
+      {
+        "label": "Kuala Lipis",
+        "value": 8
+      },
+      {
+        "label": "Bandar Jengka",
+        "value": 9
+      },
+      {
+        "label": "Bukit Tinggi",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "label": "Perak",
+    "value": 7,
+    "cities": [
+      {
+        "label": "Ipoh",
+        "value": 1
+      },
+      {
+        "label": "Taiping",
+        "value": 2
+      },
+      {
+        "label": "Sitiawan",
+        "value": 3
+      },
+      {
+        "label": "Simpang Empat",
+        "value": 4
+      },
+      {
+        "label": "Teluk Intan",
+        "value": 5
+      },
+      {
+        "label": "Batu Gajah",
+        "value": 6
+      },
+      {
+        "label": "Lumut",
+        "value": 7
+      },
+      {
+        "label": "Kampung Koh",
+        "value": 8
+      },
+      {
+        "label": "Kuala Kangsar",
+        "value": 9
+      },
+      {
+        "label": "Sungai Siput Utara",
+        "value": 10
+      },
+      {
+        "label": "Tapah",
+        "value": 11
+      },
+      {
+        "label": "Bidor",
+        "value": 12
+      },
+      {
+        "label": "Parit Buntar",
+        "value": 13
+      },
+      {
+        "label": "Ayer Tawar",
+        "value": 14
+      },
+      {
+        "label": "Bagan Serai",
+        "value": 15
+      },
+      {
+        "label": "Tanjung Malim",
+        "value": 16
+      },
+      {
+        "label": "Lawan Kuda Baharu",
+        "value": 17
+      },
+      {
+        "label": "Pantai Remis",
+        "value": 18
+      },
+      {
+        "label": "Kampar",
+        "value": 19
+      }
+    ]
+  },
+  {
+    "label": "Perlis",
+    "value": 8,
+    "cities": [
+      {
+        "label": "Kangar",
+        "value": 1
+      },
+      {
+        "label": "Kuala Perlis",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "label": "Pulau Pinang",
+    "value": 9,
+    "cities": [
+      {
+        "label": "Bukit Mertajam",
+        "value": 1
+      },
+      {
+        "label": "Georgetown",
+        "value": 2
+      },
+      {
+        "label": "Sungai Ara",
+        "value": 3
+      },
+      {
+        "label": "Gelugor",
+        "value": 4
+      },
+      {
+        "label": "Ayer Itam",
+        "value": 5
+      },
+      {
+        "label": "Butterworth",
+        "value": 6
+      },
+      {
+        "label": "Perai",
+        "value": 7
+      },
+      {
+        "label": "Nibong Tebal",
+        "value": 8
+      },
+      {
+        "label": "Permatang Kucing",
+        "value": 9
+      },
+      {
+        "label": "Tanjung Tokong",
+        "value": 10
+      },
+      {
+        "label": "Kepala Batas",
+        "value": 11
+      },
+      {
+        "label": "Tanjung Bungah",
+        "value": 12
+      },
+      {
+        "label": "Juru",
+        "value": 13
+      }
+    ]
+  },
+  {
+    "label": "Sabah",
+    "value": 10,
+    "cities": [
+      {
+        "label": "Kota Kinabalu",
+        "value": 1
+      },
+      {
+        "label": "Sandakan",
+        "value": 2
+      },
+      {
+        "label": "Tawau",
+        "value": 3
+      },
+      {
+        "label": "Lahad Datu",
+        "value": 4
+      },
+      {
+        "label": "Keningau",
+        "value": 5
+      },
+      {
+        "label": "Putatan",
+        "value": 6
+      },
+      {
+        "label": "Donggongon",
+        "value": 7
+      },
+      {
+        "label": "Semporna",
+        "value": 8
+      },
+      {
+        "label": "Kudat",
+        "value": 9
+      },
+      {
+        "label": "Kunak",
+        "value": 10
+      },
+      {
+        "label": "Papar",
+        "value": 11
+      },
+      {
+        "label": "Ranau",
+        "value": 12
+      },
+      {
+        "label": "Beaufort",
+        "value": 13
+      },
+      {
+        "label": "Kinarut",
+        "value": 14
+      },
+      {
+        "label": "Kota Belud",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "label": "Sarawak",
+    "value": 11,
+    "cities": [
+      {
+        "label": "Kuching",
+        "value": 1
+      },
+      {
+        "label": "Miri",
+        "value": 2
+      },
+      {
+        "label": "Sibu",
+        "value": 3
+      },
+      {
+        "label": "Bintulu",
+        "value": 4
+      },
+      {
+        "label": "Limbang",
+        "value": 5
+      },
+      {
+        "label": "Sarikei",
+        "value": 6
+      },
+      {
+        "label": "Sri Aman",
+        "value": 7
+      },
+      {
+        "label": "Kapit",
+        "value": 8
+      },
+      {
+        "label": "Batu Delapan Bazaar",
+        "value": 9
+      },
+      {
+        "label": "Kota Samarahan",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "label": "Selangor",
+    "value": 12,
+    "cities": [
+      {
+        "label": "Subang Jaya",
+        "value": 1
+      },
+      {
+        "label": "Klang",
+        "value": 2
+      },
+      {
+        "label": "Ampang Jaya",
+        "value": 3
+      },
+      {
+        "label": "Shah Alam",
+        "value": 4
+      },
+      {
+        "label": "Petaling Jaya",
+        "value": 5
+      },
+      {
+        "label": "Cheras",
+        "value": 6
+      },
+      {
+        "label": "Kajang",
+        "value": 7
+      },
+      {
+        "label": "Selayang Baru",
+        "value": 8
+      },
+      {
+        "label": "Rawang",
+        "value": 9
+      },
+      {
+        "label": "Taman Greenwood",
+        "value": 10
+      },
+      {
+        "label": "Semenyih",
+        "value": 11
+      },
+      {
+        "label": "Banting",
+        "value": 12
+      },
+      {
+        "label": "Balakong",
+        "value": 13
+      },
+      {
+        "label": "Gombak Setia",
+        "value": 14
+      },
+      {
+        "label": "Kuala Selangor",
+        "value": 15
+      },
+      {
+        "label": "Serendah",
+        "value": 16
+      },
+      {
+        "label": "Bukit Beruntung",
+        "value": 17
+      },
+      {
+        "label": "Pengkalan Kundang",
+        "value": 18
+      },
+      {
+        "label": "Jenjarom",
+        "value": 19
+      },
+      {
+        "label": "Sungai Besar",
+        "value": 20
+      },
+      {
+        "label": "Batu Arang",
+        "value": 21
+      },
+      {
+        "label": "Tanjung Sepat",
+        "value": 22
+      },
+      {
+        "label": "Kuang",
+        "value": 23
+      },
+      {
+        "label": "Kuala Kubu Baharu",
+        "value": 24
+      },
+      {
+        "label": "Batang Berjuntai",
+        "value": 25
+      },
+      {
+        "label": "Bandar Baru Salak Tinggi",
+        "value": 26
+      },
+      {
+        "label": "Sekinchan",
+        "value": 27
+      },
+      {
+        "label": "Sabak",
+        "value": 28
+      },
+      {
+        "label": "Tanjung Karang",
+        "value": 29
+      },
+      {
+        "label": "Beranang",
+        "value": 30
+      },
+      {
+        "label": "Sungai Pelek",
+        "value": 31
+      }
+    ]
+  },
+  {
+    "label": "Terengganu",
+    "value": 13,
+    "cities": [
+      {
+        "label": "Kuala Terengganu",
+        "value": 1
+      },
+      {
+        "label": "Chukai",
+        "value": 2
+      },
+      {
+        "label": "Dungun",
+        "value": 3
+      },
+      {
+        "label": "Kerteh",
+        "value": 4
+      },
+      {
+        "label": "Kuala Berang",
+        "value": 5
+      },
+      {
+        "label": "Marang",
+        "value": 6
+      },
+      {
+        "label": "Paka",
+        "value": 7
+      },
+      {
+        "label": "Jerteh",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "label": "Wilayah Persekutuan",
+    "value": 14,
+    "cities": [
+      {
+        "label": "Kuala Lumpur",
+        "value": 1
+      },
+      {
+        "label": "Labuan",
+        "value": 2
+      },
+      {
+        "label": "Putrajaya",
+        "value": 3
+      }
+    ]
+  }
+]
